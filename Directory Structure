@@ -1,0 +1,26 @@
+AI-Weather-Prediction/
+│
+├── backend/
+│   ├── app.py
+│   ├── model.py
+│   ├── requirements.txt
+│   ├── weather_data.csv
+│   └── generate_data.py
+│
+├── frontend/
+│   ├── public/
+│   │   ├── index.html
+│   │   ├── manifest.json
+│   │   └── favicon.ico
+│   │
+│   ├── src/
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   ├── reportWebVitals.js
+│   │   └── styles.css
+│   │
+│   ├── package.json
+│   ├── package-lock.json
+│   └── README.md
+│
+└── README.md
