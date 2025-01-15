@@ -1,7 +1,3 @@
-Here’s a complete **README.md** file for your project:
-
----
-
 # **AI-Based Weather Prediction System**
 
 ## **Overview**
